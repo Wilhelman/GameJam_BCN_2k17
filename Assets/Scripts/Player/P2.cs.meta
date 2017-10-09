@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0570afb2b79e6ce43aa8c34b651346c2
+timeCreated: 1507358018
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - shieldHorizontal: {fileID: 1716125123585390, guid: 8212c18b0da6149d0ba8231c7b88e579,
+      type: 2}
+  - shieldVertical: {fileID: 1957602908083078, guid: 1c7d1c3ddee9d4f54a75e9ea21279201,
+      type: 2}
+  - shieldLeftRightDiagonal: {fileID: 1828684051012710, guid: cd6b0d7d20cfe4797abc29d2c9510a32,
+      type: 2}
+  - shieldRightLeftDiagonal: {fileID: 1043665350786040, guid: 9ce7ed37af0a74dde9e5f8e1e38304f4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

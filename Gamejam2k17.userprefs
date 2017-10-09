@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{1E8BB08D-9DAF-003B-8630-F967EB212BB8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/P1.cs">
+    <Files>
+      <File FileName="../../:Users:wilhelman:Documents:Unity:Gamejam2k17:Assets:Scripts:Player.cs" Line="207" Column="1" />
+      <File FileName="Assets/Scripts/StaticObjectsScripts/BasicObjectStaticDestroiable.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Player/P1.cs" Line="92" Column="22" />
+      <File FileName="Assets/Scripts/Player/Text1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyBullet.cs" Line="49" Column="25" />
+      <File FileName="Assets/Scripts/Enemy/StayDistant.cs" Line="214" Column="6" />
+      <File FileName="Assets/Scripts/Player/Head1.cs" Line="43" Column="13" />
+      <File FileName="Assets/Scripts/Player/Bullet1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PointsText1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/Enemies/BigBudy.cs" Line="217" Column="6" />
+      <File FileName="Assets/Scripts/Enemy/Enemies/EnemyDoneHead.cs" Line="23" Column="46" />
+      <File FileName="Assets/Scripts/Player/Bullet2.cs" Line="22" Column="5" />
+      <File FileName="Assets/Scripts/Player/Bullet3.cs" Line="63" Column="9" />
+      <File FileName="Assets/Scripts/Player/Bullet4.cs" Line="69" Column="1" />
+      <File FileName="Assets/Scripts/Player/Head2.cs" Line="163" Column="1" />
+      <File FileName="Assets/Scripts/Player/Head3.cs" Line="163" Column="1" />
+      <File FileName="Assets/Scripts/Player/Head4.cs" Line="163" Column="1" />
+      <File FileName="Assets/Scripts/Player/P2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/P3.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/P4.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PointsText2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PointsText3.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PointsText4.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/Text2.cs" Line="30" Column="9" />
+      <File FileName="Assets/Scripts/Player/Text3.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Player/Text4.cs" Line="44" Column="18" />
+      <File FileName="Assets/Scripts/Bar1.cs" Line="68" Column="1" />
+      <File FileName="Assets/Scripts/Bar2.cs" Line="65" Column="19" />
+      <File FileName="Assets/Scripts/Bar3.cs" Line="65" Column="19" />
+      <File FileName="Assets/Scripts/Bar4.cs" Line="49" Column="5" />
+      <File FileName="Assets/Scripts/Enemy/Spawn/SpawnEnemyScript.cs" Line="42" Column="14" />
+      <File FileName="Assets/Scripts/Enemy/EnemyShot.cs" Line="95" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Gamejam2k17 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
